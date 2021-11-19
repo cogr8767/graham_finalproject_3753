@@ -26,6 +26,7 @@
 //Initial Properties
 #define INITIAL_V_X             -1  /// [cm/s]
 #define INITIAL_V_Y             -1  /// [cm/s]
+#define INITIAL_X               -1  /// [mm]
 #define INITIAL_Y               -1  /// [mm]
 #define INITIAL_FUEL_MASS       -1  /// [kg]
 
